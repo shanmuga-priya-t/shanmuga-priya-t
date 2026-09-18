@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Shanmuga Priya 👋
 
-<!--
-**shanmuga-priya-t/shanmuga-priya-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science (Artificial Intelligence & Data Science) Student
 
-Here are some ideas to get you started:
+I'm currently exploring **Artificial Intelligence, Data Science, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning new technologies and improving my problem-solving skills  
+💡 Interested in building practical and meaningful projects  
+🤖 Exploring how AI can be used to solve real-world problems  
+
+### Let's Connect
+
+🔗 [LinkedIn] www.linkedin.com/in/shanmuga-priya-8b474b316
